@@ -1,1 +1,23 @@
-/* write your override styles here */
+#wall .tag-1 {
+    display: none;
+    background-color: grey;
+  }
+  #wall .tag-2 {
+    display: none;
+    background-color: grey;
+  }#wall .tag-3 {
+    display: none;
+    background-color: grey;
+  }#wall .tag-4 {
+    display: none;
+    background-color: grey;
+  }#wall .tag-5 {
+    display: none;
+    background-color: grey;
+  }#wall .tag-6 {
+    display: none;
+    background-color: grey;
+  }#wall .tag-7 {
+    display: none;
+    background-color: grey;
+  }
